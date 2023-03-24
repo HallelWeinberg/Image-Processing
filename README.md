@@ -26,56 +26,56 @@
 ### Salt and Pepper (S&P) Noise
 <table>
   <tr>
-    <td><img width="300" alt="image" src="https://user-images.githubusercontent.com/100043559/227522493-30b9df94-5cce-42c7-a008-11545c8259fb.png">
-    <td><img width="300" alt="image" src="https://user-images.githubusercontent.com/100043559/227522790-5447f77e-bcca-49b0-ae05-be5b09982d45.png">
-    <td><img width="300" alt="image" src="https://user-images.githubusercontent.com/100043559/227522866-97990f4f-cfc9-459c-88e6-4537c078cc72.png">
+    <td><img width="300" alt="image" src="https://user-images.githubusercontent.com/100043559/227528461-2ead4aca-d487-45dc-a65a-0eb71fffeb7b.png">
+    <td><img width="300" alt="image" src="https://user-images.githubusercontent.com/100043559/227528438-1c7097bc-6485-4127-a96e-1f86bc44dfa3.png">
+    <td><img width="300" alt="image" src="https://user-images.githubusercontent.com/100043559/227528412-ced94073-f73f-4464-84c1-dda7c26c6d49.png">
   </tr>
 </table> 
 
 ### Gaussian Noise  
 <table>
   <tr>
-    <td><img width="300" alt="image" src="https://user-images.githubusercontent.com/100043559/227523292-56bb419b-4d3e-4e88-99fa-2120414d3688.png">
-    <td><img width="300" alt="image" src="https://user-images.githubusercontent.com/100043559/227523419-50859e55-32ab-442a-a1da-9c21e4a75f9f.png">
-    <td><img width="300" alt="image" src="https://user-images.githubusercontent.com/100043559/227523558-9227658f-4157-44f6-9a30-20f1de333879.png">
+    <td><img width="300" alt="image" src="https://user-images.githubusercontent.com/100043559/227528146-c75fbab1-2f3a-488d-b67c-e8138bba808b.png">
+    <td><img width="300" alt="image" src="https://user-images.githubusercontent.com/100043559/227528120-f9bc5b23-58a6-45f5-a672-ad51f50daf09.png">
+    <td><img width="300" alt="image" src="https://user-images.githubusercontent.com/100043559/227528093-ef4d499b-b24d-4764-805d-5f169a36adff.png">
   </tr>
 </table>  
   
 ## HW4: Image Enhancement / Cleaning / Restoring   
 ### Image 1
-<img width="400" alt="image" src="https://user-images.githubusercontent.com/100043559/227523877-9c2c7b15-8376-4151-a1f3-6c6883e60006.png">
+<img width="400" alt="image" src="https://user-images.githubusercontent.com/100043559/227527428-88f4551e-ea34-4f40-860e-7dd90e369608.png">
 
 ### Image 2
-<img width="400" alt="image" src="https://user-images.githubusercontent.com/100043559/227524008-9f47f780-5d14-4b78-9429-68d5418a39ed.png">
+<img width="400" alt="image" src="https://user-images.githubusercontent.com/100043559/227527415-a863f37b-2c4e-45b4-b89a-3a862a77ce84.png">
 
 ### Image 3
-<img width="400" alt="image" src="https://user-images.githubusercontent.com/100043559/227524140-10f57b85-7b34-4ddd-93c6-b9cb6d640418.png">
+<img width="400" alt="image" src="https://user-images.githubusercontent.com/100043559/227527393-53ed851e-94d4-47d5-beee-bbb4421b33e6.png">
 
 ### Image 4
-<img width="400" alt="image" src="https://user-images.githubusercontent.com/100043559/227524200-20e05fda-c559-4c57-ab2c-fbacefc9d76c.png">
+<img width="400" alt="image" src="https://user-images.githubusercontent.com/100043559/227527372-9ab91629-09bf-410e-808c-c242caf1bf4a.png">
 
 ### Image 5
-<img width="500" alt="image" src="https://user-images.githubusercontent.com/100043559/227524248-fa56d31d-1b6b-4653-abf9-6f8cc75a2df4.png">
+<img width="500" alt="image" src="https://user-images.githubusercontent.com/100043559/227527322-7bac9b86-2b14-4ee8-ad5f-e8e3ee639cb7.png">
 
 ### Image 6
-<img width="400" alt="image" src="https://user-images.githubusercontent.com/100043559/227524301-4a46d873-0155-4d73-8bbe-7f618902d355.png">
+<img width="400" alt="https://user-images.githubusercontent.com/100043559/227527249-e880f7d8-52c9-48a9-be85-7ef053bd526f.png">
 
 ### Image 7
-<img width="400" alt="image" src="https://user-images.githubusercontent.com/100043559/227524348-9c1a3bf8-37bf-48ef-b14f-68b11079c7e7.png">
+<img width="400" alt="image" src="https://user-images.githubusercontent.com/100043559/227527175-edded2e2-771f-4435-b1ec-c48e0cbf94b9.png">
 
 ### Image 8
-<img width="400" alt="image" src="https://user-images.githubusercontent.com/100043559/227524403-f83525f1-a98f-46d0-b04d-e2aee7cb5a97.png">
+<img width="400" alt="image" src="https://user-images.githubusercontent.com/100043559/227526451-84770b61-1c2b-40bd-a862-79a1f5cd8b8a.png"> 
 
 ## HW5: Edge Detectors and Pattern Recognition  
 ### Sobel Edge Detector  
-<img width="500" alt="image" src="https://user-images.githubusercontent.com/100043559/227524600-f6b676ea-5279-41c4-b463-d08e3e7ced05.png">
+<img width="400" alt="image" src="https://user-images.githubusercontent.com/100043559/227527739-fb9e8624-898a-428e-866d-e2b0db252cdb.png">
 
 ### Canny Edge Detector  
-<img width="500" alt="image" src="https://user-images.githubusercontent.com/100043559/227524668-0b19d9f7-f1bb-4771-a3b7-f449ba389d30.png">
+<img width="400" alt="image" src="https://user-images.githubusercontent.com/100043559/227527707-c9b63a4f-3a14-4377-8a27-3561694bbaec.png">
 
 ### Hough Transformation
 #### Hough Circles
-<img width="500" alt="image" src="https://user-images.githubusercontent.com/100043559/227524726-6a42dfab-a451-483f-beec-73dbb05f0169.png">
+<img width="400" alt="image" src="https://user-images.githubusercontent.com/100043559/227527694-1417f35d-190d-4ea7-ab51-2208a0fdc246.png">
 
 #### Hough Lines
-<img width="500" alt="image" src="https://user-images.githubusercontent.com/100043559/227524947-76271389-5f21-4bd1-b9b1-542ce96a5011.png">
+<img width="400" alt="image" src="https://user-images.githubusercontent.com/100043559/227527674-bb250a4b-cce0-4999-a173-da25cedd6827.png">
