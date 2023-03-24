@@ -74,8 +74,8 @@
 <img width="500" alt="image" src="https://user-images.githubusercontent.com/100043559/227524668-0b19d9f7-f1bb-4771-a3b7-f449ba389d30.png">
 
 ### Hough Transformation
-## Hough Circles
+#### Hough Circles
 <img width="500" alt="image" src="https://user-images.githubusercontent.com/100043559/227524726-6a42dfab-a451-483f-beec-73dbb05f0169.png">
 
-## Hough Lines
+#### Hough Lines
 <img width="500" alt="image" src="https://user-images.githubusercontent.com/100043559/227524947-76271389-5f21-4bd1-b9b1-542ce96a5011.png">
